@@ -109,6 +109,8 @@ oReq6.send();
 
 // function reqListener(){
 
+  // var myObj = JSON.parse(this.responseText);
+
 // }
 
 // oReq.addEventListener("load", reqListener);
